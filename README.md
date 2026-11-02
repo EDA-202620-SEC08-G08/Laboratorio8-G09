@@ -26,9 +26,9 @@ Este repositorio forma parte del marco docente de estructura de datos y algoritm
 
 Los estudiantes editan esta sección para agregar sus nombres, correos electrónicos de Uniandes y especificar qué funcionalidad de proyecto implementarán.
 
-1.Juan Sebastián Rojas Marín, js.rojasm123@uniandes.edu.co, 202610140 
-1.Katy Teran Mercado, k.teranm@uniandes.edu.co, 202614247 
-1.Juan José Rincon Santos, jj.rincons1@uniandes.edu.co, 202615789
+1. Juan Sebastián Rojas Marín, js.rojasm123@uniandes.edu.co, 202610140 
+1. Katy Teran Mercado, k.teranm@uniandes.edu.co, 202614247 
+1. Juan José Rincon Santos, jj.rincons1@uniandes.edu.co, 202615789
 
 [Volver al inicio](#laboratorio-8)
 
